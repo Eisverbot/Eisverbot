@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Eisverbot</h1>
 <h3 align="center">C++ Big namer from Germany</h3>
 
-- 🌱 I’m currently learning **C++**
-
 - 📫 You can reach me through Discord **@eisverbot**
 
 - ⚡ Fun fact **I like pasting cheats**
