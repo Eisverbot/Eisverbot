@@ -5,7 +5,6 @@
 
 - 📫 You can reach me through Discord **@eisverbot**
 
-- ⚡ Fun fact **I like pasting cheats**
 - ⚡ AI is Op **Grok > ChatGPT**
 
 <p align="left">
