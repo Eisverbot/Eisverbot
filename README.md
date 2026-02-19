@@ -4,7 +4,6 @@
 
 - 📫 You can reach me through Discord **@eisverbot**
 
-- ⚡ AI is Op **Grok > ChatGPT**
 
 <p align="left">
 </p>
