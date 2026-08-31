@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Eisverbot</h1>
 
-- 📫 You can reach me through Discord **@eisverbot**
-
-
 <p align="left">
 </p>
 
